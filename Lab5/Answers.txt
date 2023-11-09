@@ -1,0 +1,6 @@
+Q1	C.435
+Q2	NO
+Q3	Whether it increases the timeout depends on the deviation
+Q4	132 ms
+Q5	C. Flow control
+Q6 	
