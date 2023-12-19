@@ -1,0 +1,15 @@
+Q1		True
+Q2		True
+Q3		True
+Q4		True
+Q5		(d) Time out
+Q6		(b) No
+Q7		(a) Triple Duplicate Ack
+Q8		(b) No
+Q9		(b) LESS
+Q10		If the congestion window increased linearly from the beginning, it might be too aggressive and could easily lead to network congestion, causing packet loss and inefficiency due to frequent retransmissions
+Q11		200ms has progressed by point B
+Q12		c
+Q13		a
+Q14		c
+Q15		

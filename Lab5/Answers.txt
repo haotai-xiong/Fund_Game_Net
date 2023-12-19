@@ -1,6 +1,12 @@
-Q1	C.435
-Q2	NO
-Q3	Whether it increases the timeout depends on the deviation
-Q4	132 ms
-Q5	C. Flow control
-Q6 	
+Q1		C.435
+Q2		NO
+Q3		Whether it increases the timeout depends on the deviation
+Q4		132 ms
+Q5		C. Flow control
+Q6 		B. 1.5RTT
+Q7		B. Triple duplicate ACKs
+Q8		True
+Q9		SMTP, HTTP, and FTP use TCP.
+Q10		C. 0.8 seconds
+Q11		C. 4 seconds
+Q12		B. 40 pkts / s
