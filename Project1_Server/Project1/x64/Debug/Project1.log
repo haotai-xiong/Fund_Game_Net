@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+Server.obj : error LNK2019: unresolved external symbol __imp_accept referenced in function main
+Server.obj : error LNK2019: unresolved external symbol __imp_bind referenced in function main
+Server.obj : error LNK2019: unresolved external symbol __imp_closesocket referenced in function main
+Server.obj : error LNK2019: unresolved external symbol __imp_htonl referenced in function main
+Server.obj : error LNK2019: unresolved external symbol __imp_htons referenced in function main
+Server.obj : error LNK2019: unresolved external symbol __imp_listen referenced in function main
+Server.obj : error LNK2019: unresolved external symbol __imp_recv referenced in function "void __cdecl handleClient(int,unsigned __int64,struct GameState &)" (?handleClient@@YAXH_KAEAUGameState@@@Z)
+Server.obj : error LNK2019: unresolved external symbol __imp_send referenced in function "void __cdecl handleClient(int,unsigned __int64,struct GameState &)" (?handleClient@@YAXH_KAEAUGameState@@@Z)
+Server.obj : error LNK2019: unresolved external symbol __imp_socket referenced in function main
+Server.obj : error LNK2019: unresolved external symbol __imp_WSAStartup referenced in function main
+Server.obj : error LNK2019: unresolved external symbol __imp_WSACleanup referenced in function main
+Server.obj : error LNK2019: unresolved external symbol __imp_WSAGetLastError referenced in function main
+D:\Desktop\Haotai_Xiong\SETU_Carlow_Campus\Year_4-Fund_Game_Net-C00265675\Project1_Server\x64\Debug\Project1_Server.exe : fatal error LNK1120: 12 unresolved externals
